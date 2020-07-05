@@ -16,7 +16,6 @@
         <module>simplemall-order</module>
         <module>simplemall-product</module>
         <module>simplemall-ware</module>
-        <module>renren-fast</module>
         <module>renren-generator</module>
 
     </modules>
