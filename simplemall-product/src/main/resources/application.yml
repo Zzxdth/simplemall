@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3309/simplemall_pms
+    driver-class-name: com.mysql.jdbc.Driver
+mybatis-plus:
+  config-location: classpath:/mapper/**/*xml
+  global-config:
+    db-config:
+      id-type: auto
+
+
