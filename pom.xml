@@ -17,6 +17,8 @@
         <module>simplemall-product</module>
         <module>simplemall-ware</module>
         <module>renren-generator</module>
+        <module>renren-fast</module>
+        <module>simplemall-common</module>
 
     </modules>
 
